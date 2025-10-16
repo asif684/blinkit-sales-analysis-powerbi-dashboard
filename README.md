@@ -95,6 +95,12 @@ The dashboard helps stakeholders to:
 ## 📸 Dashboard Preview *(Optional)*  
 _Add a screenshot of your Power BI dashboard here once completed._  
 ![image alt](https://github.com/asif684/blinkit-sales-analysis-powerbi-dashboard/blob/5be30d4ed2b17d98235c26b5679e3ee437865dbe/powerbi-blinkit-dashboard.png)
+
+![image alt](https://github.com/asif684/blinkit-sales-analysis-powerbi-dashboard/blob/008d938bb64ff4b2d88abee3c51e9a5cdbd529dc/image2.png)
+
+![image ait](https://github.com/asif684/blinkit-sales-analysis-powerbi-dashboard/blob/008d938bb64ff4b2d88abee3c51e9a5cdbd529dc/image3.png)
+
+![image alt](https://github.com/asif684/blinkit-sales-analysis-powerbi-dashboard/blob/008d938bb64ff4b2d88abee3c51e9a5cdbd529dc/image4.png)
 ---
 
 ## 🏁 Conclusion  
